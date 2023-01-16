@@ -5,3 +5,6 @@ la idea es utilizar los comandos enseñados hasta el momento.
 no voy a estar dandole a cosas como pull o merge.
 
 tan tan.
+
+Hagamos unos cuantos cambios más para ver cóm nos va.
+hasta el momento, todo bien.
